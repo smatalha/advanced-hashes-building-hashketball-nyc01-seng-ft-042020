@@ -77,7 +77,7 @@ def game_hash
           :slam_dunks => 5
         }
         {
-          :player_name => "Bismack Biyombo",
+          :player_name => "Ben Gordon",
           :number => 0,
           :shoe => 16,
           :points => 12,
