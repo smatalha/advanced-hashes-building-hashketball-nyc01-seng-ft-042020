@@ -16,7 +16,7 @@ def game_hash
           :slam_dunks => 
         },
         {
-          :player_name => ,
+          :player_name => "Reggie Evans",
           :number => ,
           :shoe => ,
           :points => ,
@@ -27,7 +27,7 @@ def game_hash
           :slam_dunks => 
         },
         {
-          :player_name => ,
+          :player_name => "",
           :number => ,
           :shoe => ,
           :points => ,
